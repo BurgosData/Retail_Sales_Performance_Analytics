@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Office Owner files
+~*
