@@ -4,12 +4,11 @@
 Transform a raw dataset of 20,000+ sales transactions into an interactive, executive-level decision-making tool. This analysis identifies consumer patterns, sales force efficiency, and geographic revenue distribution for the 2026 period.
 
 ## 📈 Dashboard Preview
-![Sales Dashboard Preview](image190913.png) 
-![Sales Dashboard Preview](image190930.png) 
-![Sales Dashboard Preview](image190937.png) 
-![Sales Dashboard Preview](image190945.png) 
-![Sales Dashboard Preview](image190955.png) 
-*(Make sure this filename matches your uploaded image exactly)*
+![Sales Dashboard Preview](Image190913.png) 
+![Sales Dashboard Preview](Image190930.png) 
+![Sales Dashboard Preview](Image190937.png) 
+![Sales Dashboard Preview](Image190945.png) 
+![Sales Dashboard Preview](Image190955.png) 
 
 ## 🛠️ Technical Stack
 * **Microsoft Excel:** Primary analytics engine.
